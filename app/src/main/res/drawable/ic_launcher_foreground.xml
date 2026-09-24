@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized modern "M" pathway -->
+    <path
+        android:pathData="M32,74 L32,46 L46,60 L54,52 L62,60 L76,46 L76,74 L68,74 L68,58 L62,64 L54,56 L46,64 L40,58 L40,74 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="74"
+                android:endX="76"
+                android:endY="46"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#F97316" />
+                <item android:offset="1.0" android:color="#FBBF24" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Pathfinder North Star at apex -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 L56.5,36 L64.5,38.5 L56.5,41 L54,49 L51.5,41 L43.5,38.5 L51.5,36 Z" />
+    <!-- Bright center core -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M54,36 A2.5,2.5 0 1,0 54,41 A2.5,2.5 0 1,0 54,36" />
+</vector>

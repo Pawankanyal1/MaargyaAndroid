@@ -1,0 +1,6 @@
+{
+  "name": "Maargya",
+  "description": "Find Your Path. Build Your Future. Career discovery, guidance, 7D Career Lab, interactive games, and learning platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

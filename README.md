@@ -1,5 +1,5 @@
 <div align="center">
-<img width="024" height="1536" alt="GHBanner" src="https://github.com/Pawankanyal1/MaargyaAndroid/blob/main/maargya%20infographics.png">
+<img width="1024" height="1536" alt="GHBanner" src="https://github.com/Pawankanyal1/MaargyaAndroid/blob/main/maargya%20infographics.png">
 </div>
 
 
